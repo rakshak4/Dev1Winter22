@@ -16,5 +16,9 @@
         <members>Country_Code__mdt</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Keep_Tasks_Private</members>
+        <name>RestrictionRule</name>
+    </types>
     <version>57.0</version>
 </Package>
